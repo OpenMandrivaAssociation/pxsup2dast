@@ -12,7 +12,6 @@ Group:		Video
 License:	GPL
 URL:		http://www.guru-group.fi/~too/sw/m2vmp2cut/
 Source:		http://www.guru-group.fi/~too/sw/m2vmp2cut/pxsup2dast.c
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	zlib-devel
 
 %description
