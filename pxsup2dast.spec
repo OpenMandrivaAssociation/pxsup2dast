@@ -1,7 +1,7 @@
 
 %define name	pxsup2dast
 %define version	20070305
-%define rel	1
+%define rel	2
 %define release %mkrel %rel
 
 Summary:	Project X sup to dvdauthor subtitle xml converter
