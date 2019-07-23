@@ -7,7 +7,7 @@
 Summary:	Project X sup to dvdauthor subtitle xml converter
 Name:		%name
 Version:	%version
-Release:	%release
+Release:	1
 Group:		Video
 License:	GPLv2
 URL:		http://www.guru-group.fi/~too/sw/m2vmp2cut/
