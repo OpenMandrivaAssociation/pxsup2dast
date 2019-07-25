@@ -6,7 +6,7 @@
 
 Summary:	Project X sup to dvdauthor subtitle xml converter
 Name:		%name
-Version:	%version
+Version:	20120704
 Release:	1
 Group:		Video
 License:	GPLv2
