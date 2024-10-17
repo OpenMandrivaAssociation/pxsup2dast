@@ -10,7 +10,7 @@ Version:	20120704
 Release:	1
 Group:		Video
 License:	GPLv2
-URL:		http://www.guru-group.fi/~too/sw/m2vmp2cut/
+URL:		https://www.guru-group.fi/~too/sw/m2vmp2cut/
 Source:		http://www.guru-group.fi/~too/sw/m2vmp2cut/pxsup2dast.c
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 BuildRequires:	zlib-devel
